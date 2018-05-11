@@ -1,0 +1,6 @@
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\bin\Debug\JordanBurdickTest1Midterm.exe.config
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\bin\Debug\JordanBurdickTest1Midterm.exe
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\bin\Debug\JordanBurdickTest1Midterm.pdb
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\obj\Debug\JordanBurdickTest1Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\obj\Debug\JordanBurdickTest1Midterm.exe
+C:\Users\Dell-Hades\Desktop\All Labs\JordanBurdickTest1Midterm\JordanBurdickTest1Midterm\obj\Debug\JordanBurdickTest1Midterm.pdb
